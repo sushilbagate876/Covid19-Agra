@@ -1,0 +1,703 @@
+State,City Name,Ward No,Ward Name,Patient ID,Age,Gender,Longitude,Latitude,Sample Result,Result Date,Current Status,Acquired Overseas: Y/N,Locally Acquired: Y/N,Contact Determined: Not Identified/Under Investigation
+Uttar Pradesh,Agra,29,Khandari,1,NA,M,77.993638,27.205092,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,29,Khandari,2,NA,M,77.993638,27.205246,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,29,Khandari,3,NA,M,77.993652,27.205177,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,29,Khandari,4,NA,F,77.993659,27.205302,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,29,Khandari,5,NA,M,77.993624,27.205152,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,6,NA,M,77.997838,27.211917,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,7,38,F,77.997838,27.211917,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,60,Khawspura,8,25,F,77.990545,27.151749,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,81,Kamla Nagar,9,22,M,78.018758,27.210167,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,94,Bagh Farzana,10,27,F,77.998098,27.204872,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,11,17,M,78.007619,27.169882,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,93,Efg Kamla Nagar,12,54,M,78.026503,27.207941,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,64,Belanganj,13,28,M,78.027469,27.198998,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,74,Jaipur House,16,25,M,77.972581,27.183263,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,42,Bhagwati Bagh,21,37,M,78.041076,27.204764,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,22,45,M,78.00849,27.191437,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,29,61,M,78.006392,27.19309,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,47,46,M,77.974686,27.192159,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,17,Ratanpura,48,28,M,78.023364,27.197981,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,20,Freeganj,49,54,F,78.023106,27.195791,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,67,Alwatiya Nagla,50,40,M,77.964296,27.182367,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,85,Kaveri Kunj,53,52,M,78.021793,27.223997,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,54,20,F,77.976562,27.192665,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,55,18,F,77.976562,27.192665,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,56,63,M,78.010286,27.193892,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,60,Khawspura,58,21,M,77.986785,27.155571,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,92,Nagar Nigam Wazirpura,59,30,M,78.008547,27.201826,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,66,54,M,77.994523,27.192868,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,67,58,M,77.993976,27.187627,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,73,37,F,77.997375,27.213443,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,92,Nagar Nigam Wazirpura,74,35,M,78.012215,27.205866,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,43,Ghatwasan,77,46,F,78.014795,27.220286,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,43,Ghatwasan,78,24,M,78.014795,27.220286,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,43,Ghatwasan,79,51,M,78.014754,27.220087,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,32,Dera Saras,80,46,M,78.003939,27.185135,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,32,Dera Saras,81,28,M,78.00385,27.185056,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,32,Dera Saras,82,36,M,78.003791,27.185021,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,53,Mantola,83,35,M,78.013486,27.183715,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,53,Mantola,84,50,M,78.013486,27.183715,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,85,50,M,78.050181,27.163028,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,86,65,M,78.017425,27.190892,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,87,46,M,78.010988,27.202993,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,88,48,M,78.011084,27.202993,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,89,23,F,77.99408,27.192518,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,90,29,M,77.994274,27.192731,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,91,61,M,78.049913,27.161289,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,92,50,F,78.051056,27.160851,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,92,Nagar Nigam Wazirpura,94,34,M,78.009574,27.201667,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,95,26,M,78.010752,27.202286,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,96,85,F,77.99781,27.213959,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,97,14,M,77.997838,27.211917,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,98,16,F,77.997882,27.213982,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,99,47,M,77.997964,27.214005,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,100,16,F,77.99807,27.213968,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,101,37,F,77.997948,27.213851,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,102,58,M,77.997948,27.213851,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,103,65,M,77.997948,27.213851,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,104,31,M,78.007232,27.189024,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,105,65,M,78.010905,27.202063,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,17,Ratanpura,106,31,M,78.025237,27.203895,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,107,42,M,77.994205,27.186087,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,108,35,F,78.014245,27.191747,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,109,75,F,78.017418,27.190298,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,110,80,M,78.017057,27.190314,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,111,25,M,78.017201,27.190234,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,112,45,M,78.017418,27.190298,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,113,19,M,78.017418,27.190298,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,29,Khandari,128,20,M,77.989753,27.206418,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,129,52,F,77.972746,27.194009,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,130,23,F,77.973229,27.194145,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,131,21,M,77.973229,27.194145,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,132,55,M,77.973229,27.194145,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,133,23,M,77.973229,27.194145,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,134,35,M,78.041206,27.153314,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,55,Shahdra,135,12,F,78.064484,27.207555,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,55,Shahdra,136,37,F,78.06406,27.207345,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,55,Shahdra,137,40,M,78.06406,27.207345,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,55,Shahdra,138,22,F,78.06406,27.207345,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,139,53,F,77.994705,27.18714,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,143,57,M,77.934337,27.203941,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,145,40,F,78.051708,27.160911,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,60,Khawspura,147,32,M,77.984878,27.160682,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,60,Khawspura,148,24,F,77.984878,27.160682,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,150,30,F,78.007232,27.189024,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,151,40,M,78.007232,27.189024,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,152,38,M,77.997838,27.211917,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,153,47,M,77.977808,27.192227,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,154,25,F,78.035322,27.160993,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,78,Saheed Nagar,155,28,M,78.041688,27.152178,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,157,27,M,78.01826,27.189377,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,158,38,M,78.015384,27.205086,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,168,53,F,77.935454,27.205724,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,169,9,F,78.034482,27.160469,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,36,Mahadev  Nagar,170,80,M,78.044261,27.145024,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,42,Bhagwati Bagh,171,21,F,78.041076,27.204764,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,100,Nai Ki Mandi,173,24,M,78.00735,27.179788,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,16,Dholi Khar,174,58,M,78.014947,27.180259,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,91,Rawat Para,175,36,M,78.015116,27.183542,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,84,Raja Mandi,177,32,M,77.998137,27.186979,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,1,Kazi Para,178,27,M,78.012318,27.176009,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,7,Khatena,179,45,F,77.982519,27.19368,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,7,Khatena,180,12,M,77.984369,27.193681,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,181,35,F,78.049888,27.160732,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,182,40,M,78.049913,27.161289,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,183,50,M,78.049888,27.160732,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,184,22,M,78.051056,27.160851,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,185,50,F,78.049888,27.160732,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,186,55,M,78.049913,27.161289,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,187,22,M,78.049888,27.160732,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,188,27,M,78.050714,27.161264,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,190,9,M,78.050714,27.161264,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,191,32,M,78.014788,27.204083,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,192,16,M,78.015636,27.206607,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,193,20,M,78.015636,27.206607,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,194,38,F,77.992758,27.213787,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,195,30,F,77.993537,27.213822,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,196,17,M,77.99287,27.213787,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,197,8,M,77.992806,27.213787,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,198,3,M,77.99287,27.213787,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,199,51,M,78.050761,27.161085,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,200,32,M,78.051708,27.160911,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,201,26,M,78.049801,27.162824,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,202,23,M,78.015485,27.206483,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,67,Alwatiya Nagla,203,37,M,77.955276,27.181439,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,204,36,M,78.030553,27.128559,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,9,Ghas Ki  Mandi,205,53,M,77.988612,27.17698,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,92,Nagar Nigam Wazirpura,206,52,M,78.014059,27.207397,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,51,Vijay Nagar Colony,207,45,M,78.022939,27.200376,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,208,16,M,78.041967,27.157204,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,209,23,M,77.952818,27.210233,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,94,Bagh Farzana,210,40,F,78.003043,27.210811,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,212,25,M,78.007207,27.189309,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,213,30,M,78.008671,27.170711,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,74,Jaipur House,214,23,M,77.972239,27.182877,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,215,27,M,78.008572,27.171147,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,32,Dera Saras,218,36,M,78.003602,27.184362,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,32,Dera Saras,219,20,F,78.003602,27.184362,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,32,Dera Saras,220,42,F,78.003689,27.184354,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,32,Dera Saras,221,30,F,78.003641,27.184247,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,222,49,M,78.01085,27.201223,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,91,Rawat Para,223,56,M,78.014005,27.18369,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,53,Mantola,224,23,M,78.013486,27.183715,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,225,28,M,77.997864,27.21546,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,226,18,M,77.997864,27.21546,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,227,24,F,77.997864,27.21546,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,59,Naraich East,228,33,M,78.047885,27.209247,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,53,Mantola,236,22,M,78.010314,27.184845,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,29,Khandari,237,28,M,77.988062,27.206372,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,46,Avas Vikas East,239,38,F,77.963479,27.198945,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,71,Nagla Padi,240,36,F,78.004431,27.212658,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,69,Avas Vikas South,241,27,F,77.960094,27.192281,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,29,Khandari,244,27,F,77.989753,27.206418,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,78,Saheed Nagar,245,40,M,78.041688,27.152178,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,16,Dholi Khar,247,24,F,78.01421,27.179566,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,249,50,F,77.934005,27.205971,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,46,Avas Vikas East,250,64,M,77.960281,27.200656,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,53,Mantola,251,43,M,78.013486,27.183715,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,252,19,M,78.01085,27.201223,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,72,Nagla Mewati,253,32,M,78.059458,27.152002,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,254,75,F,78.012704,27.188246,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,67,Alwatiya Nagla,255,40,F,77.961303,27.17979,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,67,Alwatiya Nagla,256,15,M,77.961395,27.18015,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,257,23 Days,M,78.049577,27.159609,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,53,Mantola,259,70,M,78.011002,27.184541,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,74,Jaipur House,260,55,M,77.979791,27.186259,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,99,Mandi Pipal,261,28,F,78.018191,27.18642,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,45,Ashok Nagar,262,60,M,77.998845,27.18501,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,71,Nagla Padi,263,45,M,78.003704,27.212554,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,84,Raja Mandi,264,22,M,77.998743,27.189127,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,84,Raja Mandi,265,45,F,77.998743,27.189127,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,84,Raja Mandi,266,18,F,77.998743,27.189127,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,84,Raja Mandi,267,50,M,77.998743,27.189127,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,20,Freeganj,268,45,M,78.018987,27.191822,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,20,Freeganj,269,26,M,78.022807,27.195612,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,43,Ghatwasan,271,21,M,78.017745,27.210312,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,273,26,M,77.972838,27.204285,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,274,19,M,77.994205,27.186087,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,275,23,M,77.994205,27.186087,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,62,Telipara,276,26,F,78.051117,27.166112,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,58,Naraich West,277,28,M,78.050075,27.228457,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,54,Trans Yamuna,278,28,M,78.042932,27.203764,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,279,30,F,77.909151,27.222901,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,38,Gailana,282,35,F,77.974559,27.210633,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,94,Bagh Farzana,285,23,F,78.002917,27.210101,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,286,42,F,78.015485,27.206483,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,50,Sita Nagar,287,50,M,78.040594,27.201579,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,61,Sarla Bagh,288,29,F,77.999192,27.229516,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,61,Sarla Bagh,289,29,M,77.999192,27.229516,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,60,Khawspura,290,22,M,77.98612,27.162034,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,291,25,F,78.030754,27.130775,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,1,Kazi Para,292,46,M,78.01156,27.175894,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,1,Kazi Para,293,42,M,78.012318,27.176009,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,294,31,M,78.004135,27.188335,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,295,26,M,77.99455,27.191772,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,296,6,F,77.994685,27.191989,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,297,12,F,77.994685,27.191989,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,298,10,M,77.99455,27.191796,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,303,35,F,78.008441,27.170384,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,304,40,F,78.008441,27.170384,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,305,55,F,78.008441,27.170384,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,306,40,M,78.008441,27.170384,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,307,19,M,78.008441,27.170384,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,308,33,F,78.008441,27.170384,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,46,Avas Vikas East,309,50,M,77.960127,27.200158,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,18,Raj Nagar,310,63,M,77.993638,27.185754,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,311,35,F,78.012156,27.193233,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,312,50,M,78.010286,27.193892,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,313,45,M,78.010286,27.193892,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,77,Kedar Nagar,314,52,M,77.973343,27.17561,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,17,Ratanpura,315,44,M,78.024657,27.197663,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,13,Nagla Harmukh,316,30,M,78.027753,27.203455,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,64,Belanganj,317,23,M,78.021299,27.189839,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,318,25,M,78.004208,27.18872,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,81,Kamla Nagar,320,41,M,78.020607,27.212459,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,321,40,M,77.912484,27.222712,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,77,Kedar Nagar,322,45,M,77.97534,27.175085,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,53,Mantola,323,42,F,78.008896,27.179992,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,40,Baluganj,324,48,F,78.015971,27.167665,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,37,Nagla  Ajeeta,325,23,M,77.965631,27.191809,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,326,32,M,77.939193,27.202496,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,69,Avas Vikas South,327,36,M,77.955815,27.198031,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,13,Nagla Harmukh,329,59,M,78.019004,27.208287,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,51,Vijay Nagar Colony,330,25,M,78.021768,27.201237,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,74,Jaipur House,331,62,M,77.978326,27.19138,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,333,27,M,77.99367,27.211291,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,5,Himachal Colony,334,25,M,78.018064,27.132748,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,335,22,F,78.030754,27.130775,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,336,35,M,78.030754,27.130775,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,337,31,F,78.030754,27.130775,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,338,50,M,78.038086,27.122507,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,339,53,M,78.01276,27.155442,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,340,20,M,77.99306,27.21893,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,341,26,M,77.993249,27.218956,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,342,39,M,77.947456,27.214006,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,40,Baluganj,343,38,M,78.010792,27.169093,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,40,Baluganj,344,39,M,78.010792,27.169093,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,345,35,F,77.964067,27.210641,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,346,35,M,77.944595,27.200579,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,348,53,M,77.935872,27.205544,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,349,30,M,78.017398,27.189508,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,74,Jaipur House,350,35,M,77.974684,27.181636,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,77,Kedar Nagar,351,19,M,77.972705,27.174918,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,100,Nai Ki Mandi,352,45,F,78.00301,27.182079,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,18,Raj Nagar,353,48,M,77.993305,27.185744,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,99,Mandi Pipal,355,40,M,78.016139,27.186646,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,356,17,M,78.013117,27.192034,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,357,60,M,77.934108,27.220158,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,358,55,M,78.03405,27.153648,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,11,Prakash Nagar Charsu Darwaza,359,36,M,78.004321,27.195146,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,67,Alwatiya Nagla,360,24,M,77.956743,27.181546,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,58,Naraich West,361,28,M,78.050575,27.227908,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,90,Balkeshwar,362,48,M,78.026674,27.214196,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,9,Ghas Ki  Mandi,364,60,F,77.980289,27.173271,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,16,Dholi Khar,365,53,M,78.01421,27.179566,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,366,54,M,78.005981,27.165356,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,35,Mustafaq Quaters,367,34,M,77.988905,27.147465,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,4,Sewla Jat,368,50,M,78.006283,27.129692,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,369,70,M,77.994385,27.191311,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,370,64,F,78.035373,27.158831,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,45,Ashok Nagar,371,40,M,77.998845,27.18501,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,12,Mohan Nagla,372,35,F,77.994563,27.174505,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,64,Belanganj,373,63,M,78.023106,27.192896,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,374,41,F,77.976366,27.178843,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,21,Barah Khambha,378,20,M,77.987783,27.16849,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,83,Tedi Bagiya,379,25,M,78.043706,27.2267,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,69,Avas Vikas South,380,52,M,77.960584,27.191798,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,381,25,M,78.006965,27.170072,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,383,30,F,78.004005,27.19195,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,384,54,F,78.00704,27.16854,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,385,35,M,78.00704,27.16854,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,386,24,M,78.00704,27.16854,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,4,Sewla Jat,387,34,F,78.011719,27.130656,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,53,Mantola,388,36,M,78.014777,27.181103,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,389,48,M,78.010276,27.189563,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,392,34,F,78.008273,27.171038,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,393,7,F,78.008692,27.170864,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,394,38,M,78.01374,27.188277,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,395,40,M,78.006942,27.170666,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,396,38,M,78.006628,27.169419,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,39,Namnair,397,35,F,78.007072,27.169553,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,4,Sewla Jat,398,25,M,78.013333,27.130007,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,53,Mantola,399,57,M,78.013757,27.181553,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,5,Himachal Colony,401,24,F,78.0179,27.132087,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,78,Saheed Nagar,402,35,M,78.042457,27.148287,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,403,43,F,78.051298,27.159432,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,404,34,F,77.97586,27.177025,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,405,64,M,78.034345,27.159084,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,11,Prakash Nagar Charsu Darwaza,406,28,M,78.003703,27.194591,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,407,45,M,77.974947,27.177316,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,408,41,M,77.975426,27.177458,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,92,Nagar Nigam Wazirpura,409,29,M,78.004139,27.197065,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,410,40,M,78.014592,27.162373,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,411,28,M,77.975514,27.176955,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,11,Prakash Nagar Charsu Darwaza,412,38,M,78.004803,27.196044,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,414,28,M,78.006257,27.192324,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,415,58,M,78.006431,27.192282,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,22,Sohalla,416,72,F,77.981003,27.136829,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,11,Prakash Nagar Charsu Darwaza,417,75,M,78.005324,27.195532,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,11,Prakash Nagar Charsu Darwaza,418,60,M,78.005339,27.195122,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,30,Ram Nagar,419,40,M,77.964845,27.182447,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,64,Belanganj,420,17,M,78.022794,27.193275,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,421,24,M,77.942336,27.217792,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,422,19,M,77.952749,27.209888,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,423,55,F,78.005815,27.187365,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,424,45,M,78.005976,27.187564,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,20,Freeganj,426,60,M,78.022967,27.197166,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,26,Jageshwar Nagar,427,29,M,78.003566,27.218606,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,64,Belanganj,428,30,M,78.022151,27.193038,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,64,Belanganj,429,19,M,78.022326,27.192921,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,430,40,M,78.001582,27.234667,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,431,42,M,77.977577,27.175977,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,432,33,M,78.035364,27.158211,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,64,Belanganj,433,64,M,78.021481,27.193668,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,7,Khatena,435,58,M,77.986983,27.191964,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,62,Telipara,436,40,M,78.048069,27.162335,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,37,Nagla  Ajeeta,437,42,M,77.969493,27.193058,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,52,Dev Nagar,440,45,M,77.991124,27.215177,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,441,30,M,78.032059,27.1274,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,442,31,F,78.031887,27.128185,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,443,35,M,78.031887,27.128185,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,446,50,M,78.009205,27.187973,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,77,Kedar Nagar,448,71,M,77.971364,27.178353,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,94,Bagh Farzana,449,53,M,77.99874,27.196838,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,29,Khandari,450,49,F,77.989312,27.207598,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,461,33,F,78.048237,27.163019,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,462,27,M,78.049588,27.163439,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,463,41,M,78.055478,27.159705,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,464,55,M,78.037988,27.165272,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,465,24,M,78.04153,27.162216,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,466,,F,78.040571,27.162772,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,467,35,M,78.041967,27.157204,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,468,65,F,78.040578,27.162653,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,469,70,M,77.976883,27.175882,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,470,35,F,78.015534,27.188542,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,471,9,M,78.015281,27.188082,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,472,10,M,78.01523,27.188538,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,473,32,M,77.977749,27.176031,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,474,28,F,77.97596,27.178227,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,475,6,M,78.041734,27.157099,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,476,30,M,78.054014,27.159735,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,477,22,M,77.949054,27.216728,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,21,Barah Khambha,478,32,M,77.987783,27.16849,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,479,24,M,78.01589,27.206026,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,51,Vijay Nagar Colony,480,29,M,78.022689,27.200252,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,482,35,M,77.942898,27.218868,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,46,Avas Vikas East,483,21,M,77.95967,27.201244,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,20,Freeganj,484,35,M,78.023106,27.195791,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,20,Freeganj,485,50,M,78.02312,27.195858,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,20,Freeganj,486,63,M,78.02312,27.195858,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,20,Freeganj,487,19,M,78.023106,27.195791,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,488,50,M,78.009102,27.163018,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,489,34,F,78.052787,27.160793,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,50,Sita Nagar,490,52,M,78.051664,27.203864,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,491,37,M,78.040647,27.158064,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,4,Sewla Jat,492,19,F,78.010283,27.136756,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,493,43,M,78.052787,27.160793,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,77,Kedar Nagar,499,48,M,77.974794,27.176278,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,30,Ram Nagar,500,40,M,77.966013,27.183618,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,501,34,M,78.052787,27.160793,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,77,Kedar Nagar,506,67,M,77.974794,27.176278,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,30,Ram Nagar,507,31,F,77.966007,27.183729,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,508,49,M,77.934242,27.21524,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,509,47,M,77.932119,27.219534,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,510,46,M,77.940366,27.210217,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,511,36,M,77.93424,27.215307,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,512,,M,77.944595,27.200579,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,59,Naraich East,516,35,M,78.047038,27.209683,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,70,Tal Firoz Khan,518,32,M,78.007382,27.136163,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,519,64,F,77.99603,27.155083,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,91,Rawat Para,524,16,F,78.013701,27.185204,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,91,Rawat Para,525,46,M,78.013701,27.185204,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,91,Rawat Para,526,70,M,78.013662,27.185456,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,91,Rawat Para,527,42,F,78.013662,27.185456,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,91,Rawat Para,528,70,F,78.013619,27.185762,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,9,Ghas Ki  Mandi,536,35,M,77.984961,27.175114,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,83,Tedi Bagiya,539,31,M,78.048321,27.231186,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,49,Rahul Nagar Bodla,540,19,M,77.949721,27.206879,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,49,Rahul Nagar Bodla,541,32,M,77.949721,27.206879,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,542,55,M,78.010976,27.199812,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,74,Jaipur House,543,56,M,77.979703,27.186521,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,24,Gadi Bhadauriya,544,27,M,77.972348,27.190591,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,18,Raj Nagar,545,54,M,77.989746,27.177528,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,18,Raj Nagar,547,63,M,77.989033,27.177651,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,91,Rawat Para,548,30,F,78.013662,27.185456,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,18,Raj Nagar,551,60,F,77.990281,27.179927,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,94,Bagh Farzana,552,40,M,77.996948,27.198104,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,553,58,M,77.942257,27.22061,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,100,Nai Ki Mandi,554,34,M,78.007733,27.180568,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,555,34,M,78.013896,27.186353,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,556,23,M,78.013901,27.186334,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,97,Gover Chauki,557,70,M,78.044645,27.155367,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,97,Gover Chauki,558,24,M,78.044593,27.155434,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,59,Naraich East,559,55,F,78.058147,27.210426,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,64,Belanganj,560,42,F,78.022079,27.189126,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,40,Baluganj,561,50,F,78.01147,27.171918,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,1,Kazi Para,562,18,F,78.013352,27.173501,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,97,Gover Chauki,563,70,F,78.044736,27.155441,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,97,Gover Chauki,564,52,M,78.044736,27.155441,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,92,Nagar Nigam Wazirpura,565,49,M,78.008111,27.204315,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,92,Nagar Nigam Wazirpura,566,19,M,78.00814,27.204385,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,12,Mohan Nagla,567,36,M,77.994563,27.174505,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,27,Ajit  Nagar,568,65,M,77.981857,27.161533,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,569,24,F,78.034999,27.131354,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,18,Raj Nagar,570,42,M,77.989746,27.177528,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,46,Avas Vikas East,571,48,M,77.967088,27.195144,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,89,Ram Mohan Nagar,572,70,M,77.954174,27.19662,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,573,54,M,78.018654,27.121776,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,574,30,M,78.054495,27.163741,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,92,Nagar Nigam Wazirpura,575,55,M,78.010149,27.202602,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,74,Jaipur House,576,65,F,77.977231,27.180302,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,577,26,M,77.983617,27.04612,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,16,Dholi Khar,578,18,M,78.01421,27.179566,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,90,Balkeshwar,579,21,M,78.026674,27.214196,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,46,Avas Vikas East,580,62,F,77.965003,27.198517,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,16,Dholi Khar,581,24,M,78.01421,27.179566,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,582,46,M,78.193491,27.331284,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,583,23,M,78.003413,27.188628,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,46,Avas Vikas East,584,24,M,77.965029,27.198594,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,16,Dholi Khar,585,23,M,78.01421,27.179566,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,586,50,F,78.007409,27.187198,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,1,Kazi Para,587,20,M,78.01169,27.175984,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,588,28,M,77.955156,27.21481,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,589,,M,78.008489,27.191437,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,74,Jaipur House,590,49,M,77.980646,27.184523,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,43,Ghatwasan,591,65,M,78.014076,27.210747,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,53,Mantola,592,34,F,78.013095,27.183367,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,78,Saheed Nagar,593,38,M,78.041788,27.146782,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,62,Telipara,594,45,M,78.050594,27.166665,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,50,Sita Nagar,595,31,F,78.047095,27.204026,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,24,Gadi Bhadauriya,596,62,M,77.965478,27.189543,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,21,Barah Khambha,597,64,M,77.987783,27.16849,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,21,Barah Khambha,598,35,M,77.984928,27.164623,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,599,26,M,78.980206,27.091063,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,53,Mantola,600,43,M,78.013117,27.183347,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,82,Bheem Nagar,601,11,M,77.991022,27.19714,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,80,Jatpura,602,45,M,77.994325,27.193987,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,80,Jatpura,603,43,F,77.994282,27.194063,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,80,Jatpura,604,14,M,77.994282,27.194063,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,80,Jatpura,605,18,F,77.994282,27.194063,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,80,Jatpura,606,40,F,77.994131,27.194044,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,80,Jatpura,607,40,F,77.994282,27.194063,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,80,Jatpura,608,14,M,77.993928,27.193929,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,610,60,M,78.005314,27.192467,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,76,Dhakran,611,80,F,78.003893,27.17758,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,90,Balkeshwar,612,55,M,78.026674,27.214196,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,32,Dera Saras,613,39,M,78.005981,27.184179,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,614,40,F,78.005425,27.189918,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,60,Khawspura,615,45,F,77.996307,27.165203,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,12,Mohan Nagla,616,50,M,77.995277,27.179635,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,66,Nawal Ganj,617,45,F,78.030955,27.194245,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,62,Telipara,618,10,M,78.047795,27.163833,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,62,Telipara,619,48,F,78.047795,27.163833,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,62,Telipara,620,52,M,78.047964,27.163836,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,62,Telipara,621,32,M,78.047905,27.163845,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,622,70,M,77.931028,27.129186,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,32,Dera Saras,623,23,F,78.005981,27.184179,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,52,Dev Nagar,624,44,M,77.992178,27.221051,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,1,Kazi Para,625,40,M,78.013156,27.174414,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,5,Himachal Colony,626,50,F,78.019852,27.128375,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,627,34,M,79.298667,27.217878,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,628,21,F,78.007075,27.237647,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,629,53,M,77.952328,27.21242,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,74,Jaipur House,630,70,M,77.978032,27.180347,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,84,Raja Mandi,631,37,M,77.998986,27.186848,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,632,48,M,77.976247,27.174017,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,13,Nagla Harmukh,633,62,M,78.027387,27.206295,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,81,Kamla Nagar,636,32,F,78.018621,27.222712,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,637,58,M,77.935677,27.572944,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,638,51,M,77.973226,27.192246,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,639,28,F,78.017662,27.169345,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,26,Jageshwar Nagar,640,64,M,78.001073,27.226551,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,81,Kamla Nagar,641,73,M,78.019242,27.215145,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,13,Nagla Harmukh,643,60,M,78.025037,27.205161,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,99,Mandi Pipal,644,40,F,78.020968,27.186269,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,82,Bheem Nagar,645,25,F,77.991655,27.198365,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,83,Tedi Bagiya,646,11,M,78.043333,27.229167,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,89,Ram Mohan Nagar,647,40,M,77.948182,27.197696,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,89,Ram Mohan Nagar,648,40,F,77.94834,27.198923,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,89,Ram Mohan Nagar,649,14,F,77.94834,27.198923,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,69,Avas Vikas South,650,58,M,77.960094,27.192281,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,651,35,M,78.018688,27.189473,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,84,Raja Mandi,652,56,M,77.996692,27.187784,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,99,Mandi Pipal,653,43,M,78.018647,27.187263,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,81,Kamla Nagar,654,46,M,78.019242,27.215145,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,81,Kamla Nagar,655,18,M,78.019242,27.215145,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,656,30,F,77.94175,27.218249,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,55,Shahdra,657,30,F,78.063767,27.208703,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,89,Ram Mohan Nagar,658,74,M,77.94801,27.197667,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,94,Bagh Farzana,659,38,F,77.996738,27.199004,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,660,35,M,77.995202,27.153951,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,661,50,F,78.007409,27.187198,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,662,48,M,78.001575,27.188098,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,1,Kazi Para,663,38,F,78.015063,27.178264,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,20,Freeganj,664,50,M,78.023106,27.195791,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,26,Jageshwar Nagar,666,26,F,78.003127,27.21723,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,46,Avas Vikas East,667,32,M,77.95967,27.201244,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,668,29,F,77.995991,27.215166,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,81,Kamla Nagar,669,45,F,78.019059,27.215002,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,27,Ajit  Nagar,670,32,M,77.978861,27.170252,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,96,Maharishi Puram,671,26,F,77.966727,27.214803,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,672,63,M,77.939193,27.202497,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,673,55,M,78.010286,27.193892,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,674,74,F,78.038188,27.154545,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,675,48,M,78.007409,27.187198,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,51,Vijay Nagar Colony,676,47,M,78.020966,27.205018,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,54,Trans Yamuna,677,45,M,78.04525,27.206308,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,46,Avas Vikas East,678,58,F,77.967088,27.195144,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,35,Mustafaq Quaters,679,23,M,77.984572,27.150475,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,680,29,M,77.974791,27.195242,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,77,Kedar Nagar,681,35,F,77.974439,27.175471,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,682,22,F,78.051897,27.162881,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,34,Bhogi Pura,683,29,M,77.984923,27.179723,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,8,Idgah,684,32,M,77.992486,27.167258,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,18,Raj Nagar,685,55,M,77.990281,27.179927,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,18,Raj Nagar,686,50,F,77.990281,27.179927,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,687,50,M,77.934242,27.21524,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,688,26,F,78.008489,27.191437,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,689,75,M,78.015197,27.192414,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,690,54,M,78.015578,27.192406,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,95,Dhankot Fuvvara,691,45,F,78.015324,27.192411,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,692,50,M,78.061934,27.154237,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,37,Nagla  Ajeeta,693,65,M,77.967116,27.190256,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,23,Mohan Pura,694,23,F,78.007717,27.175891,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,93,Efg Kamla Nagar,695,59,M,78.026042,27.209459,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,26,Jageshwar Nagar,696,40,F,78.001293,27.221216,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,697,35,F,77.959879,27.214347,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,29,Khandari,698,55,F,77.990565,27.207308,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,31,Lawyers Colony,699,50,F,77.995758,27.215467,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,43,Ghatwasan,700,34,F,78.00837,27.212294,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,701,65,M,78.051554,27.162647,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,51,Vijay Nagar Colony,702,50,M,78.02085,27.204618,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,71,Nagla Padi,703,62,M,78.005427,27.214979,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,704,28,F,77.955156,27.21481,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,705,32,F,77.955156,27.21481,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,706,66,F,79.338459,28.24392,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,43,Ghatwasan,707,32,F,78.010606,27.213357,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,50,Sita Nagar,708,69,M,78.04629,27.203003,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,27,Ajit  Nagar,709,35,M,77.98402,27.16733,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,710,35,M,77.932185,27.215784,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,711,23,F,78.412782,27.141865,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,712,22,M,78.398294,27.148398,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,713,51,M,78.412413,27.139137,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,714,26,F,77.940283,27.22096,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,715,75,M,78.586708,27.104511,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,716,62,M,78.006011,27.166163,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,717,20,M,78.006011,27.165399,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,718,38,M,78.046406,27.162919,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,50,Sita Nagar,719,81,M,78.039452,27.201734,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,14,Kach Pura,720,30,F,78.038088,27.183327,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,93,Efg Kamla Nagar,721,28,M,78.02603,27.209958,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,722,60,F,77.976232,27.178721,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,723,49,M,77.976006,27.178692,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,77,Kedar Nagar,724,20,M,77.973854,27.175481,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,725,,F,77.9322,27.215649,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,726,44,F,78.004206,27.188065,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,5,Himachal Colony,727,34,M,78.018825,27.128811,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,14,Kach Pura,728,17,M,78.030316,27.187384,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,76,Dhakran,730,35,F,78.005961,27.176415,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,76,Dhakran,731,60,M,78.005157,27.176393,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,732,45,M,77.995634,27.188714,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,733,60,M,77.974579,27.198836,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,734,60,M,77.974579,27.198836,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,735,34,M,78.086574,27.102479,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,736,55,M,78.086574,27.102479,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,737,46,M,77.976229,27.203122,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,738,56,M,77.975599,27.192998,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,38,Gailana,739,26,M,77.974032,27.215889,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,49,Rahul Nagar Bodla,740,1,M,77.950125,27.203519,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,49,Rahul Nagar Bodla,741,26,M,77.949799,27.203574,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,49,Rahul Nagar Bodla,742,52,F,77.949627,27.20344,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,743,52,M,78.003434,27.188621,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,744,52,M,77.946575,27.217632,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,18,Raj Nagar,745,50,F,77.991415,27.178947,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,746,54,M,77.939373,27.220438,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,38,Gailana,747,25,M,77.974091,27.215965,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,38,Gailana,748,26,M,77.973984,27.216179,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,38,Gailana,749,24,F,77.973984,27.216179,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,38,Gailana,750,40,M,77.973984,27.216179,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,751,80,F,78.006076,27.167293,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,14,Kach Pura,752,34,M,78.040349,27.187196,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,96,Maharishi Puram,753,41,M,77.969713,27.214146,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,754,19,M,78.046406,27.162919,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,8,Idgah,755,30,M,77.993001,27.167454,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,96,Maharishi Puram,756,54,M,77.967287,27.215376,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,11,Prakash Nagar Charsu Darwaza,759,60,M,78.005432,27.195696,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,760,63,M,78.039621,27.162085,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,761,31,M,77.974579,27.198836,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,762,65,M,77.974758,27.199189,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,763,62,M,77.974468,27.19875,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,764,46,M,77.974758,27.199189,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,765,40,M,77.974361,27.198712,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,766,58,M,77.974747,27.199122,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,767,65,M,77.974677,27.199032,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,768,46,M,77.974635,27.199018,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,769,48,M,77.974658,27.198999,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,770,30,M,77.974436,27.198679,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,771,35,M,77.974742,27.199027,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,772,58,M,77.974688,27.198998,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,45,Ashok Nagar,773,85,F,77.997073,27.183049,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,98,Nagar Vibhav,774,34,F,78.034726,27.16367,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,775,50,M,78.009205,27.187973,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,45,Ashok Nagar,776,43,M,77.995363,27.18307,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,30,Ram Nagar,777,24,M,77.971795,27.17934,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,778,45,M,77.974676,27.193074,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,779,48,M,78.009205,27.187973,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,780,26,M,78.004507,27.18816,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,781,20,M,78.005083,27.189828,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,45,Ashok Nagar,782,60,F,77.996795,27.185321,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,64,Belanganj,783,36,M,78.019759,27.189611,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,94,Bagh Farzana,784,28,M,77.997255,27.197585,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,785,48,M,78.051551,27.136283,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,77,Kedar Nagar,786,46,M,77.972863,27.176086,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,26,Jageshwar Nagar,787,39,M,78.004238,27.218721,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,77,Kedar Nagar,788,34,M,77.973708,27.175894,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,789,43,M,77.955399,27.215579,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,790,56,F,78.014091,27.187714,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,77,Kedar Nagar,791,68,M,77.973746,27.175257,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,18,Raj Nagar,792,62,F,77.990797,27.17949,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,43,Ghatwasan,793,40,M,78.012055,27.213328,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,67,Alwatiya Nagla,794,55,M,77.956491,27.179925,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,795,52,M,77.972997,27.193552,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,796,30,M,78.017965,27.168482,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,78,Saheed Nagar,797,54,M,78.040772,27.152092,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,77,Kedar Nagar,798,32,M,77.974182,27.176257,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,74,Jaipur House,799,43,M,77.979286,27.185368,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,45,Ashok Nagar,800,54,M,77.996572,27.184225,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,801,56,F,78.009413,27.193051,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,802,27,M,78.009413,27.193051,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,803,24,M,78.009601,27.193029,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,804,22,M,78.009601,27.193029,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,8,Idgah,805,50,F,77.993002,27.167056,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,8,Idgah,806,23,F,77.993174,27.167109,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,807,55,F,77.930131,27.204535,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,809,70,M,78.052348,27.159989,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,25,Bagh Muzaffar Khan,810,22,M,78.0096,27.192871,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,74,Jaipur House,811,47,M,77.978981,27.187448,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,50,Sita Nagar,812,62,F,78.048881,27.202338,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,18,Raj Nagar,813,52,F,77.990747,27.179034,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,69,Avas Vikas South,814,29,F,77.960607,27.192648,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,60,Khawspura,815,30,F,77.986139,27.160316,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,49,Rahul Nagar Bodla,816,3,F,77.953191,27.204041,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,49,Rahul Nagar Bodla,817,26,F,77.953186,27.203873,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,49,Rahul Nagar Bodla,818,30,M,77.953167,27.204042,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,54,Trans Yamuna,819,50,M,78.045164,27.206719,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,820,53,F,78.052845,27.161609,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,821,22,M,78.052994,27.161552,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,47,Ghatia Azam Khan,822,47,M,78.010366,27.201899,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,46,Avas Vikas East,823,32,M,77.960127,27.199387,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,824,48,M,77.993844,27.192276,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,52,Dev Nagar,825,62,F,77.986511,27.212281,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,84,Raja Mandi,826,62,M,77.996909,27.187635,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,18,Raj Nagar,828,60,M,77.990524,27.179582,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,829,35,M,77.976406,27.178282,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,830,40,M,78.406595,27.154336,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,83,Tedi Bagiya,831,28,F,78.043189,27.23003,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,74,Jaipur House,832,30,F,77.979077,27.187744,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,833,23,F,78.395009,27.158098,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,51,Vijay Nagar Colony,834,58,F,78.021643,27.204571,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,835,67,M,77.994737,27.188772,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,836,55,M,77.975925,27.177266,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,6,Jagdish Pura East,837,90,M,77.9745,27.198896,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,838,60,F,77.995717,27.188503,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,839,8,M,77.962252,27.211447,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,96,Maharishi Puram,840,14,M,77.961999,27.214859,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,841,73,M,77.962252,27.211447,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,94,Bagh Farzana,842,65,F,78.001302,27.199923,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,843,50,F,77.932542,27.159715,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,2,Eme Gummat Takhat Pahalwan,844,34,F,78.013329,27.138517,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,9,Ghas Ki  Mandi,845,30,F,77.97529,27.17165,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,3,Jagdish Pura West,846,60,F,77.972081,27.192662,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,847,58,M,77.993611,27.189234,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,73,Sikandra,848,30,F,77.953421,27.210506,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,41,Azam Para,849,70,F,77.973594,27.17261,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,850,44,M,78.003381,27.167177,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,43,Ghatwasan,851,50,M,78.015492,27.21541,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,852,50,M,77.993482,27.186358,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,13,Nagla Harmukh,853,30,M,78.024653,27.20629,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,854,65,M,78.006102,27.167038,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,74,Jaipur House,855,20,M,77.977634,27.189478,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,100,Nai Ki Mandi,856,36,M,78.007506,27.180595,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,857,24,F,78.053881,27.139419,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,7,Khatena,858,27,F,77.987605,27.192183,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,71,Nagla Padi,859,29,F,78.001412,27.215302,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,9,Ghas Ki  Mandi,860,30,M,77.984799,27.173887,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,51,Vijay Nagar Colony,861,67,M,78.021207,27.199724,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,29,Khandari,862,,M,77.989929,27.202987,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,29,Khandari,863,,M,77.989915,27.202999,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,29,Khandari,864,,M,77.989884,27.202978,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,9,Ghas Ki  Mandi,865,14,M,77.981924,27.173587,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,92,Nagar Nigam Wazirpura,866,28,M,78.011496,27.208393,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,20,Freeganj,867,28,M,78.012474,27.194944,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,9,Ghas Ki  Mandi,868,13,F,77.984212,27.175248,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,9,Ghas Ki  Mandi,869,45,F,77.984225,27.175252,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,10,Prakash  Nagar,870,70,M,77.980822,27.175604,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,,Out of City Boundary,873,38,M,78.667105,27.560609,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,88,Harju Pura,874,40,M,78.053324,27.161817,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,58,Naraich West,875,75,M,78.049267,27.225453,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,86,Khati Para,876,19,F,77.995113,27.191212,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,68,Noori Darwaza,877,22,F,78.009192,27.186266,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra, ,Cantoment Area,878,21,F,78.010172,27.157892,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,15,Sarai Malook Chand,880,1,F,78.00927,27.117264,NA,NA,NA,NA,NA,NA
+Uttar Pradesh,Agra,30,Ram Nagar,881,74,F,77.973508,27.181009,NA,NA,NA,NA,NA,NA
